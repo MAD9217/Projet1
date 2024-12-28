@@ -1,1 +1,2 @@
 Bonjour ce fichier est cree pour des test sur git
+Je co^mmence a comprendre le fonctionnement de git
